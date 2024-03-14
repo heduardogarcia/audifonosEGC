@@ -1,0 +1,8 @@
+:root{
+    --fuentePrincipal:'Roboto',san-serif;
+    --fuenteSecundaria: 'Lato',san-serif;
+}
+
+body{
+    font-family: var(--fuentePrincipal);
+}
